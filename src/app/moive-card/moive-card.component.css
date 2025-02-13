@@ -1,0 +1,13 @@
+.moive_card .description {
+  background-color: white;
+  transition: all 1s;
+  opacity: 0;
+  top: 110%;
+}
+.description {
+  transition: all 1s 5s;
+}
+.moive_card:hover .description {
+  top: 6%;
+  opacity: 1;
+}

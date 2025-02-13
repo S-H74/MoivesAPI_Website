@@ -1,0 +1,27 @@
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color: white;
+  font-weight: 500;
+}
+.bg-151f30 {
+  background-color: #151f30;
+}
+input::placeholder {
+  color: white;
+}
+.border-tansparent {
+  border-color: transparent;
+}
+.btn-login {
+  background-color: transparent;
+  color: white;
+  border: 3px solid transparent;
+  border-radius: 10%;
+  transition: all 0.5s;
+}
+.btn-login:hover {
+  color: blue;
+  border-color: #151f30;
+}
